@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AnastasiaGOIT/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/AnastasiaGOIT/goit-react-hw-01-components/static/js/main.a83fadcf.js",
-    "index.html": "/AnastasiaGOIT/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/AnastasiaGOIT/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.a83fadcf.js.map": "/AnastasiaGOIT/goit-react-hw-01-components/static/js/main.a83fadcf.js.map"
+    "main.css": "/AnastasiaGOIT.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/AnastasiaGOIT.github.io/goit-react-hw-01-components/static/js/main.5b249122.js",
+    "index.html": "/AnastasiaGOIT.github.io/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/AnastasiaGOIT.github.io/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.5b249122.js.map": "/AnastasiaGOIT.github.io/goit-react-hw-01-components/static/js/main.5b249122.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.a83fadcf.js"
+    "static/js/main.5b249122.js"
   ]
 }
